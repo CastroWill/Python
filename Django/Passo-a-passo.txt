@@ -1,0 +1,17 @@
+Foi criado uma pasta chamada "Aplicacao"
+
+Abrimos o local dessa pasta no CMD e executamos o seguinte comando "python3 -m ./venv" para criar um ambiente virtual nesta pasta
+
+No CMD com o caminho direcionado para a pasta aplicação executamos o comando "code ." para abrir o Visual Code
+
+No Visual Code inicializaremos o ambiente virtual com o seguinte comando "start venv/Scripts/activate.bat" (Windows)
+
+Irá abrir um terminal separado indicando que o ambiente está ativo.
+
+Instalar o django com o comando "pip install django"
+
+Para verificar os pacotes instalados "pip freeze"
+
+Neste terminal você poderá gerenciar sua aplicação através "python manage.py _comando_"
+
+
